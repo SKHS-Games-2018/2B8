@@ -15,7 +15,7 @@
 * [Heaven Mize](https://github.com/myZer0soul0902)
 * [Dakota Paris](https://github.com/lilpeep11-1)
 * [Zaemeian Paris]()
-* [Brayden Richardson]()
+* [Brayden Richardson](https://github.com/brayden1283)
 * [Hayden Robinson](https://github.com/UnwantedGameMaker)
 * [Jack Stencil](https://github.com/CarrackGames)
 * [Gunnar Stuart]()
