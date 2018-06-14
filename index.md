@@ -7,7 +7,7 @@
 * [Austin Gilweit](https://github.com/Hizix-Dreadheart)
 * [Ashton Hoyt]()
 * [Jakob Hurlbot-Chapman]()
-* [Matthew Kincaid]()
+* [Matthew Kincaid](https://github.com/Matthew-Kincaid)
 * [Parker Mader]()
 * [Ethan Mann]()
 * [Justina Matej]()
